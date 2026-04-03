@@ -1,50 +1,50 @@
-> **Responsável Técnico focado em soluções de alto impacto e resiliência operacional.**
+# Olá, meu nome Alan Mazeto Mendes conhecido como Mazeto.
 
-## 🚀 Resumo
-Responsável técnico na Pague Menos, liderando sistemas para **40+ lojas e 1.000+ usuários**. Especialista em **Nest.js, React e Oracle SQL**, com foco em automação (BullMQ/Redis) e redução de custos, tendo implementado uma solução de gestão de vencimentos com **economia milionária** para o negócio.
+Este GitHub parece meio vazio, mas convido você a ver meus outros perfis. Este perfil é pessoal e contém alguns projetos que deixei para trás, além de outros que venho construindo.
 
----
+### **Desenvolvedor Fullstack focado em resolver problemas reais de negócio.**
 
-## 💼 Experiências Profissionais
-
-<details>
-<summary><b>Supermercados Pague Menos | Desenvolvedor Fullstack</b></summary>
-
-* **Liderança técnica** e expansão de plataforma estratégica para 40+ lojas.
-* Desenvolvimento de sistema de **gestão de vencimentos** com economia de escala milionária.
-* Integrações complexas com **Nest.js, BullMQ, Redis** e hardwares **Zebra (ZPL)**.
-* Garantia de resiliência via **testes de estresse com Grafana k6** e testes automatizados com **Jest**.
-* Monitoramento e saúde da operação utilizando **Elastic Stack, Kubernetes e Docker**.
-</details>
-
-<details>
-<summary><b>Pecege | Desenvolvedor Front-end Pleno</b></summary>
-
-* Arquitetura de **Dashboards de KPIs** em React para suporte à decisão da diretoria.
-* Gestão de **pipelines CI/CD no Azure** e monitoramento de ambientes de produção.
-* Otimização de performance e resolução ágil de incidentes críticos.
-</details>
-
-<details>
-<summary><b>ExSign | Desenvolvedor Fullstack Jr</b></summary>
-
-* Manutenção de aplicações com **React e Nest.js**, integrando Prisma e MongoDB.
-* Desenvolvimento de interfaces modernas com Styled Components e Tailwind CSS.
-</details>
-
-<details>
-<summary><b>Claro Brasil | Analista COP REDE</b></summary>
-
-* Análise da infraestrutura de rede e diagnósticos para disponibilidade de serviço.
-* Colaboração em soluções de conectividade e conformidade com padrões de segurança.
-</details>
+Acredito que a tecnologia é uma ferramenta poderosa, mas o que realmente faz a diferença é entender o fluxo da operação e o impacto que o código causa na ponta. Minha base técnica é em **React.js, Nest.js e Oracle SQL** (ou qualquer coisa orientada a objetos...), mas meu diferencial está na capacidade de ouvir stakeholders (e a operação...), traduzir necessidades complexas e arquitetar soluções que funcionam sem *outage* (eu gosto de ver o que eu crio funcionando e sendo usado).
 
 ---
 
-## 🎓 Formação
-* **Tecnologia em Sistemas de Informação** | Fatec Americana (2014-2017)
+## 🚀 O que eu entrego
+
+Recentemente, dediquei minha energia a estruturar plataformas que sustentam a operação de mais de **40 lojas**, criando ferramentas que hoje fazem parte da rotina de mais de **1.000 pessoas** (era mil chamados antes de ser rotinas). 
+
+Um dos projetos que mais me orgulho de ter liderado (e que me deu uma boa dor de cabeça) foi um módulo de **Gestão de Vencimentos e Auditorias**. Através de um trabalho de escuta ativa com as áreas de negócio (e a operação...), desenvolvemos uma arquitetura que reduziu drasticamente o desperdício de produtos, trazendo uma **economia real e direta na casa dos milhões** para a margem de lucro. (A parte engraçada é: em empresas grandes que ainda não possuem uma infraestrutura de desenvolvimento muito robusta, qualquer software bem pensado gera uma redução de custos e um lucro imenso **CONTANTO** que tenha pessoas que sejam proativas e dedicadas em ouvir a dor e transformar em solução).
 
 ---
 
-## 🛠️ Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+## 💼 Minha Experiência
+
+* **Supermercados Pague Menos (Desenvolvedor Fullstack Pleno):** Liderança técnica na transição de plataformas MVP para escala produtiva. Atuação direta em automação de tarefas (BullMQ/Redis), integração com hardware de loja (Zebra/ZPL) e monitoramento de infraestrutura (Kubernetes/Elastic).
+* **Pecege (Desenvolvedor Front-end Pleno):** Arquitetura de Dashboards de KPIs para suporte à decisão da diretoria e gestão de pipelines de automação no Azure.
+* **ExSign (Desenvolvedor Fullstack Jr):** Desenvolvimento de ponta a ponta com foco em interfaces modernas e integração eficiente de dados.
+* **Claro Brasil (Analista de Rede):** Diagnóstico de infraestrutura crítica e garantia de alta disponibilidade de serviços.
+
+---
+
+## 🛠️ Conhecimento Técnico
+
+No dia a dia, equilibro a estabilidade técnica com o feedback constante de quem usa o software. Tenho experiência prática com:
+* **Desenvolvimento:** Nest.js, Express, React, Next.js e TypeScript.
+* **Dados:** Oracle SQL, MongoDB e Redis.
+* **Operação:** Docker, Kubernetes, Jenkins e ElasticAPM.
+* **Qualidade:** Testes de carga com Grafana k6, testes automatizados com Jest e RTL.
+
+---
+
+## 🎓 Educação e Exploração
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** pela Fatec Americana.
+
+Além disso, tenho explorado **Inteligência Artificial** e **Node-RED** para otimizar processos da operação, como: análise de imagem via pipeline (ninguém tem 24GB de VRAM fácil para rodar Llama Vision), treinamento de agentes para entender que um "salgadinho não é um ovo" (mais chato de fazer do que parece) e **AR (Realidade Aumentada)** — que ajuda, segundo os feedbacks que recebi, a operação a atuar com muito mais precisão.
+
+---
+
+### 📫 Vamos conversar?
+
+Se você busca alguém que entende que o software precisa servir à operação (e não o contrário):
+
+* **LinkedIn:** [Alan Mazeto Mendes](https://www.linkedin.com/in/alan-mazeto-mendes-282751208/)
