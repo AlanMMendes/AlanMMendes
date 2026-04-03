@@ -10,7 +10,7 @@ Responsável técnico na Pague Menos, liderando sistemas para **40+ lojas e 1.00
 ## 💼 Experiências Profissionais
 
 <details>
-<summary><b>Supermercados Pague Menos | Desenvolvedor Fullstack (Atual)</b></summary>
+<summary><b>Supermercados Pague Menos | Desenvolvedor Fullstack</b></summary>
 
 * **Liderança técnica** e expansão de plataforma estratégica para 40+ lojas.
 * Desenvolvimento de sistema de **gestão de vencimentos** com economia de escala milionária.
