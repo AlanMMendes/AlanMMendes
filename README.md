@@ -1,6 +1,4 @@
-# Olá, eu sou o Alan Mazeto Mendes 👋
-
-> **Responsável Técnico focado em soluções de alto impacto financeiro e resiliência operacional.**
+> **Responsável Técnico focado em soluções de alto impacto e resiliência operacional.**
 
 ## 🚀 Resumo
 Responsável técnico na Pague Menos, liderando sistemas para **40+ lojas e 1.000+ usuários**. Especialista em **Nest.js, React e Oracle SQL**, com foco em automação (BullMQ/Redis) e redução de custos, tendo implementado uma solução de gestão de vencimentos com **economia milionária** para o negócio.
